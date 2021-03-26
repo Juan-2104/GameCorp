@@ -1,0 +1,124 @@
+.header{
+    background-color: black;
+    height: 80px;
+    padding: 5px;
+}
+.menu{
+float: right;
+margin-top: 25px;
+}
+.nombre {
+    float: left;
+    color: #03c119;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.logo {
+    float: left;
+    padding: 2px;
+}
+.menu a{
+    color: rgb(0, 255, 106);
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+.barraNav{
+    background-color: rgb(32, 32, 32);
+    
+}
+.nav-link{
+    color: white;
+}
+.container{
+    padding: 100px;
+}
+body{
+    background-color: black;
+}
+h2{
+    color: rgb(0, 255, 106);
+}
+p{
+    color: white;
+}
+.nempresa{
+        height: 300px;
+        text-align: center;
+        padding: 10px 100px;
+        padding-top: 50px;
+     
+}
+.vision{
+    text-align: center;
+    
+}
+.textop{
+padding: 15px;
+}
+.sticky-top-2{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 80px;
+    z-index: 1030;
+}
+.redireccion{
+    height: 120px;
+    width: 100%;
+}
+.LFooter{
+    height: 5px;
+    width: 100%;
+   background-color: rgb(0, 255, 106);
+}
+.btnSaber{
+    color: rgb(255, 255, 255);
+    background-color:  rgb(82, 82, 82);;
+    border-color: rgb(255, 255, 255);
+    border-top-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 250, 250);
+    border-bottom-color: rgb(255, 253, 253);
+    border-left-color: rgb(255, 251, 251);
+}
+.btnSaber:hover{
+    color: rgb(0, 0, 0);
+    background-color:  rgb(0, 255, 106);
+    border-color: #000000;
+    border-top-color: #000000;
+    border-right-color: #020202;
+    border-bottom-color: #000000;
+    border-left-color: #000000;
+}
+.col-lg-4{
+    margin-top: 70px;
+    padding-bottom: 30px;
+}
+footer {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 20px 100px 90px 100px;
+  }
+  ul.nav a:hover {
+    color: rgb(0, 255, 76) !important;
+  }
+  btn-outline-success {
+    color: rgb(0, 255, 76) !important;
+  }
+  .linea {
+    border-top: 3px solid rgb(0, 255, 76);
+    height: 4px;
+    max-width: auto;
+    padding: 0;
+    margin: 20px auto 0 auto;
+}
+footer{
+    background-color: #202020;
+}
+.color:hover{
+    color: rgb(0, 255, 76) !important;
+}
+.barraNav ul li a i{
+    margin-right: 10px;
+}
